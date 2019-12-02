@@ -1,0 +1,2 @@
+# Receitas
+Projeto Django
